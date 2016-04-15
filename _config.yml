@@ -1,0 +1,28 @@
+name: Brain Smells
+favicon: null
+layout_spectrum: 0.057895062025636435
+typography_spectrum: 0.8981124206911772
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.791501535801217
+  lightness: 0.7873881249688566
+  saturation: 0.7518616952002048
+  rhythmicContrast: 0.28077693516388535
+purpose: []
