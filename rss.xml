@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Brain Smells]]></title>
         <description><![CDATA[Brain Smells]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/brain-smells/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 20:02:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Apr 2016 20:11:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/brain-smells/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Marc Chagall Museum]]></title>
+            <description><![CDATA[<article><h1>Marc Chagall Museum</h1><p>Eye Smells</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c5c6fc4-97f5-4347-9583-4b761581bc2b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/brain-smells/marc-chagall-museum/index.html</link>
+            <guid isPermaLink="false">aa703a9c-63c5-4693-b691-d9814ed0f844</guid>
+            <pubDate>Fri, 15 Apr 2016 20:11:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Early morning walk alone]]></title>
             <description><![CDATA[<article><h1>Early morning walk alone</h1><p>an old city</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/80932cb4098e1923a57fc244853ca8beaf1648f1.jpg"></article>]]></description>
-            <link>undefinedearly-morning-walk-alone/index.html</link>
+            <link>https://thegrid.ai/brain-smells/early-morning-walk-alone/index.html</link>
             <guid isPermaLink="false">3f29995a-ac88-4cba-8b03-337349ea9925</guid>
             <pubDate>Fri, 15 Apr 2016 20:01:56 GMT</pubDate>
         </item>
